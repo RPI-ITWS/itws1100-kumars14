@@ -1,3 +1,6 @@
-.heading{
-    
+.heading {
+    text-align: center; 
+    margin: 15px;
+    padding: 0;
+    font-variant: small-caps;
 }
