@@ -1,12 +1,34 @@
+body {
+    font-family: Arial, Helvetica, Verdana;
+  }
+
 .heading {
     text-align: center; 
     margin: 20px;
+    margin-top: 20px;
     padding: 0;
-    font-variant:small-caps;
+    font-variant: small-caps;
+    font-size: 40px;
+    background-color: rgb(209, 210, 255);
+    border-radius: 20px;
 }
-.heading1 {
+#maininfo {
     text-align: center; 
-    margin: 20px;
-    padding: 0;
-    font-variant:small-caps;
+    margin: 30px;
+    padding: 20px;
+    list-style: none;
+    font-size: 20px;
+}
+#maininfo a {
+    font-size: 20px;;
+    margin-top: 20px;
+    padding: 20px;
+    list-style: none;
+}
+#maininfo footer {
+    font-size: 15px;
+    margin-top: 600px;
+    text-align: center; 
+    border-radius: 20px;
+    background-color: rgb(209, 210, 255);
 }
