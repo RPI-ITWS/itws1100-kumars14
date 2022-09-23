@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, Verdana;
+    font-family: "Courier New", Courier, monospace
   }
 
 .heading {
@@ -11,6 +11,7 @@ body {
     font-size: 40px;
     background-color: rgb(209, 210, 255);
     border-radius: 20px;
+    
 }
 #maininfo {
     text-align: center; 
@@ -31,4 +32,7 @@ body {
     text-align: center; 
     border-radius: 20px;
     background-color: rgb(209, 210, 255);
+}
+#laptop li {
+    scale: 100px;
 }
