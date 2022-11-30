@@ -1,5 +1,5 @@
 body {
-    font-family: "Courier New", Courier, monospace
+    font-family:  Verdana, sans-serif;
   }
 
 .heading {
@@ -7,11 +7,22 @@ body {
     margin: 20px;
     margin-top: 20px;
     padding: 0;
+    font-family: Georgia, serif;
     font-variant: small-caps;
     font-size: 40px;
     background-color: rgb(209, 210, 255);
     border-radius: 20px;
     
+}
+
+.imageofme img {
+    height: 350px;
+    width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
 }
 #maininfo {
     text-align: center; 
@@ -28,7 +39,7 @@ body {
 }
 #maininfo footer {
     font-size: 15px;
-    margin-top: 600px;
+    margin-top: 150px;
     text-align: center; 
     border-radius: 20px;
     background-color: rgb(209, 210, 255);
@@ -36,3 +47,16 @@ body {
 #laptop li {
     scale: 100px;
 }
+
+.button {
+    border: none;
+    color: rgb(209, 210, 255);
+    background-color: rgb(114, 116, 236);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px;
+    cursor: pointer;
+  }

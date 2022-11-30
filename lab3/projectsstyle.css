@@ -1,5 +1,5 @@
 body {
-    font-family: "Courier New", Courier, monospace;
+    font-family: Verdana, sans-serif;
     background-color: rgb(209, 210, 255);
 }
 
@@ -8,36 +8,49 @@ body {
     margin: 20px;
     margin-top: 20px;
     padding: 0;
+    font-family: Georgia, serif;
     font-variant: small-caps;
-    font-size: 40px;
+    font-size: 38px;
     background-color: antiquewhite;
     border-radius: 20px;
 }
 .LAB1 {
-    text-align: left;
+    text-align: center;
     font-size: 20px;
+    
 }
 .LAB2 {
-    text-align: left
+    text-align: center;
     font-size: 20px;
 }
 .LAB3 {
-    text-align: left;
+    text-align: center;
     font-size: 20px;
 }
-#lab1 li{
-    font-style: italic;
+#lab1 {
+    font-style: normal;
+    vertical-align: center;
+    
 }
-#lab2 li {
-    font-style: italic;
+#lab2  {
+    font-style:normal;
+    vertical-align: center;
+    
 }
-#lab3 li {
-    font-style: italic;
+#lab3  {
+    font-style: normal;
+    vertical-align: center;
+    
+}
+#lab2 a {
+    text-align: center;
 }
 #footer {
     font-size: 15px;
-    margin-top: 400px;
+    margin-top: 350px;
     text-align: center; 
     border-radius: 20px;
     background-color:antiquewhite;
 }
+
+
