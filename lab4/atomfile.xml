@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Shreya's XML Atom Feed</title>
+	<subtitle>itws lab4 atom feed</subtitle>
+	<link href="http://shreyaatomfeed.com/feed/" rel="self" />
+	<link href="http://shreyaatomfeed.com/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2022-12-13T18:30:02Z</updated>
+	<author>
+		<name>Shreya Kumar</name>
+		<email>shreyakumar@rpi.edu</email>
+	</author>
+		
+		<entry>
+			<title>This Is Why Your Hair Hurts When You Wear It Up All Day</title>
+			<link href="https://www.seventeen.com/beauty/hair/news/a45354/why-your-hair-hurts/" />
+			<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+			<updated>2022-11-21T18:30:02Z</updated>
+			<category term="beauty"/>
+			<summary>The science behind why you can feel pain in your head and scalp from wearing a ponytail all the time. Findings show ponytails can affect the nervous system.</summary>
+		</entry>
+
+		<entry>
+			<title>These Are the Winter Coat Trends to Try Now</title>
+			<link href="https://www.vogue.com/article/winter-coat-trends-2022" />
+			<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+			<updated>2022-11-11T18:30:02Z</updated>
+			<category term="fashion"/>
+			<summary>7 essential winter coats that will look stylish but keep you warm. All are trends of 2022, including built in scarf coats, wild printed coats, statement shearling coats, quilted shell coats, shearling robe coats, luxury leather trench coats, and classic camel coats.</summary>
+		</entry>
+
+		<entry>
+			<title>U.S. Advances to Knockout Round With 1-0 Victory Over Iran in Tense Matchup</title>
+			<link href="https://www.nytimes.com/live/2022/11/29/sports/usa-iran-world-cup-scores" />
+			<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+			<updated>2022-11-30T18:30:02Z</updated>
+			<category term="sports"/>
+			<summary>Christian Pulisic, who scored the only goal in the match, left with an injury. Huge win over Iran given the current tensions between the U.S. and Iran, especially during the Iranian protests all over the world.</summary>
+		</entry>
+
+		<entry>
+			<title>Chinas lockdown protests and rising COVID leave Xi Jinping with 2 bad options</title>
+			<link href="https://www.npr.org/2022/11/29/1139509250/china-lockdown-protests-xi-jinping-zero-covid-policy" />
+			<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+			<updated>2022-11-13T18:30:02Z</updated>
+			<category term="worldnews"/>
+			<summary>Protests have erupted all over China related to the China Zero Covid Policy. China being very strict on its citizens for COVID, has led to thousands of Chinese demanding freedom to speak in Communist China.</summary>
+		</entry>
+
+		<entry>
+			<title>Irans supreme leader praises paramilitary for crackdown on rioters and thugs</title>
+			<link href="https://www.cnn.com/2022/11/26/middleeast/iran-supreme-leader-praises-crackdown-intl/index.html" />
+			<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+			<updated>2022-11-18T18:30:02Z</updated>
+			<category term="worldnews"/>
+			<summary>The morality police and the Iranian regime has been going around the nation finding protesters and anti-government supporters and taking them down through violence or arresting them. Leader of Iran has been proud of those officials and workers who have caught the protesters.</summary>
+		</entry>
+
+</feed>
+
+
+

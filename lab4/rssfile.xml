@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+	<title>Shreya's RSS Feed</title>
+	<description>This is my RSS feed</description>
+	<link>http://www.example.com/</link>
+	<lastBuildDate>Tue, 29 Nov 2022 00:01:00 +0000 </lastBuildDate>
+	<pubDate>Wed, 30 Nov 2022 00:01:00 +0000 </pubDate>	
+		<item>
+			<title>This Is Why Your Hair Hurts When You Wear It Up All Day</title>
+			<description>The science behind why you can feel pain in your head and scalp from wearing a ponytail all the time. Findings show ponytails can affect the nervous system.</description>
+			<link>https://www.seventeen.com/beauty/hair/news/a45354/why-your-hair-hurts/</link>
+			<pubDate>Mon, 21 Nov 2022 08:00:00 +0000 </pubDate>
+		</item>
+
+		<item>
+			<title>These Are the Winter Coat Trends to Try Now</title>
+			<description>7 essential winter coats that will look stylish but keep you warm. All are trends of 2022, including built in scarf coats, wild printed coats, statement shearling coats, quilted shell coats, shearling robe coats, luxury leather trench coats, and classic camel coats.</description>
+			<link>https://www.vogue.com/article/winter-coat-trends-2022</link>
+			<pubDate>Fri, 11 Nov 2022 09:45:04 +0000 </pubDate>
+		</item>
+   
+		<item>
+			<title>U.S. Advances to Knockout Round With 1-0 Victory Over Iran in Tense Matchup</title>
+			<description>Christian Pulisic, who scored the only goal in the match, left with an injury. Huge win over Iran given the current tensions between the U.S. and Iran, especially during the Iranian protests all over the world.</description>
+			<link>https://www.nytimes.com/live/2022/11/29/sports/usa-iran-world-cup-scores</link>
+			<pubDate>Wed, 30 Nov 2022 00:01:00 +0000 </pubDate>
+		</item>
+   
+		<item>
+			<title>Chinas lockdown protests and rising COVID leave Xi Jinping with 2 bad options</title>
+			<description>Protests have erupted all over China related to the China Zero Covid Policy. China being very strict on its citizens for COVID, has led to thousands of Chinese demanding freedom to speak in Communist China.</description>
+			<link>https://www.npr.org/2022/11/29/1139509250/china-lockdown-protests-xi-jinping-zero-covid-policy</link>
+			<pubDate>Wed, 30 Nov 2022 00:01:00 +0000 </pubDate>
+		</item>
+
+		<item>
+			<title>Irans supreme leader praises paramilitary for crackdown on rioters and thugs</title>
+			<description>The morality police and the Iranian regime has been going around the nation finding protesters and anti-government supporters and taking them down through violence or arresting them. Leader of Iran has been proud of those officials and workers who have caught the protesters.</description>
+			<link>https://www.cnn.com/2022/11/26/middleeast/iran-supreme-leader-praises-crackdown-intl/index.html</link>
+			<pubDate>Sat, 26 Nov 2022 08:58:00 +0000 </pubDate>
+		</item>
+	</channel>
+</rss>
+
