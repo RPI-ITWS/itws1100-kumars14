@@ -32,7 +32,7 @@
          }
       }
    
-      if (formObj.forg.value === "") {
+      if (formObj.org.value === "") {
          alertText += "You must enter an organization\n";
          if (focusSet === 0) {
             formObj.org.focus();
