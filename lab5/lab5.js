@@ -6,9 +6,24 @@ function validate(formObj) {
    // it will be a series of if statements
 
    if (formObj.firstName.value == "") {
-      alert("You must enter a first name");
-      formObj.firstName.focus();
-      return false;
+      alertText += "You must enter a first name\n";
+      if (focusSet == 0) {
+         formObj.firstName.focus();
+         focusSet = 1;
+      }
+      //return false;
    }
+
+   if (formObj.lastName.value == "") {
+      alertText += "You must enter a last name\n";
+      if (focusSet == 0) {
+         formObj.lastName.focus();
+         focusSet = 1;
+      }
+      //return false;
+   }
+
+
+
    return true;
 }
