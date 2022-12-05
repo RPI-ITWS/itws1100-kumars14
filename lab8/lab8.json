@@ -1,39 +1,47 @@
-{
-   "menuItem": [
+[
+   
       {
-         "a": "Lab 1",
-         "b": "Virtual Machine and Github Repo"
+         "number": "Lab 1",
+         "name": "Virtual Machine and Github Repo",
+         "description": "In Lab 1 I created a Virtual Machine on Microsoft Azure, my own server, and a Github account."
       },
       {
-         "a": "Lab 2",
-         "b": "Resume",
-         "c": "../lab2/kumars14-ShreyaKumar-resume.html"
+         "number": "Lab 2",
+         "name": "Resume",
+         "link": "../lab2/kumars14-ShreyaKumar-resume.html",
+         "description": "In Lab 2 I created my own resume through HTML and CSS."
+
       },
       {
-         "a": "Lab 3",
-         "b": "Personal Website and Projects Page",
-         "c": "../index.html"
+         "number": "Lab 3",
+         "name": "Personal Website and Projects Page",
+         "link": "../index.html",
+         "description": "In Lab 3 I built my website that stores all my labs and projects in my ITWS class."
       },
       {
-         "a": "Lab 4",
-         "b": "XML RSS and Atom Feed",
-         "c": "../lab4/rssfile.xml",
-         "d": "../lab4/atomfile.xml"
+         "number": "Lab 4",
+         "name": "XML RSS and Atom Feed",
+         "link": "../lab4/rssfile.xml", 
+         "link2": "../lab4/atomfile.xml",
+         "description": "In Lab 4 I created two XML files, one RSS 2.0 and one Atom 1.0. They each contain five entries that link to a news article or blog that interested me."
       },
       {
-         "a": "Lab 5",
-         "b": "HTML Form with JavaScript",
-         "c": "../lab5/lab5.html"
+         "number": "Lab 5",
+         "name": "HTML Form with JavaScript",
+         "link": "../lab5/lab5.html",
+         "description": "In Lab 5 I worked on an HTML form to provide user feedback and validation while implementing Javascript and CSS."
       },
       {
-         "a": "Lab 6",
-         "b": "HTML Page with JavaScript and jQuery",
-         "c": "../lab6/lab6.html"
+         "number": "Lab 6",
+         "name": "HTML Page with JavaScript and jQuery",
+         "link": "../lab6/lab6.html",
+         "description": "In Lab 6 I worked on an HTML page that I edited with Javascript and jQuery. The buttons on the page work and when 'Your Name' is pressed, my name shows up in purple and lowercase. "
+         
       },
       {
-         "a": "Lab 7",
-         "b": "Term Project Mockup",
-         "c": "../lab7/termprojectmockup.docx" 
+         "number": "Lab 7",
+         "name": "Term Project Mockup",
+         "link": "../lab7/termprojectmockup.docx",
+         "description": "In Lab 7 my term project team and I created our project mockup."
       }
-   ]
-}
+]

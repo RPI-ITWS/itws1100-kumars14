@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: rgb(209, 210, 255);
+}
+
+.heading1 {
+    text-align: center; 
+    margin: 20px;
+    margin-top: 20px;
+    padding: 0;
+    font-family: Georgia, serif;
+    font-variant: small-caps;
+    font-size: 38px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
