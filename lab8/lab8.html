@@ -1,31 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Shreya Kumar: Lab 8 - Dynamic Website</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="text/javascript" src="/lab8/lab8.js"></script>
-    <script type="text/javascript" src="/resources/jquery-3.1.1.min.js"></script>
-    <link rel="stylesheet" href="lab8.css">
-    <title>Projects and Labs</title>
-  </head>
-  <body>
-    <h1 class="heading1"> Shreya Kumar's ITWS Projects</h1>
+<head>
+  <title>Shreya Kumar: Lab 8 - Dynamic Website</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="../lab8/lab8.json"></script>
+  <script src="../lab8/resources/jquery-3.1.1.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="../lab8/lab8.js"></script>
+  <link rel="stylesheet" href="lab8.css">
+  <script type="text/javascript">
+    function display(val) {
+      outputBox = document.getElementById("output");
+      outputBox.innerHTML = val;
+    }
+  </script>
+  <title>Projects and Labs</title>
+</head>
+<body>
+  <h1 class="heading1"> Shreya Kumar's ITWS Projects</h1>
     
-    <style>
-      div {
-        background-color: rgb(252, 242, 229);
-        width: 300px;
-        border: 15px solid rgb(114,116,236);
-        padding: 50px;
-        margin: 30px;
-        display: inline-block;
-        vertical-align: middle;
-      }
-      </style>
+  <style>
+    div {
+      background-color: rgb(252, 242, 229);
+      width: 300px;
+      border: 15px solid rgb(114,116,236);
+      padding: 50px;
+      margin: 30px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+    </style>
 
-      <div id="laboutput"></div>
-  </body>
+  <div id="labinfo"><button type="button" onclick="display(labs.number + ', ' + labs.name + ', ' + labs.link + ', ' + labs.description);">Click for Projects and Labs</button></div>
+  <div id="#laboutput">
+    Projects and Labs will output here!
+  </div>
+</body>
 </html>
     

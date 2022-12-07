@@ -2,10 +2,10 @@ $(document).ready(function() {
 	$.getJSON("lab8.json",
 		function(data) {
 			var result = '';
-			$.each(data, function (key, value) {
+			$.each(data, function (key, labs) {
 				output += '<ul>';
-				output += '<li> <a href="' + value.link + value.link2 + '">' + value.number + ' - ' + value.name+'</a></li>';
-				output += '<li>' + value.description + '</li>';
+				output += '<li> <a href="' + labs.link + labs.link2 + '">' + labs.number + ' - ' + labs.name+'</a></li>';
+				output += '<li>' + labs.description + '</li>';
 				output += '</ul>';
 			});
 			$('#laboutput').append(output);
