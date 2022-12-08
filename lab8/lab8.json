@@ -1,5 +1,5 @@
-[
-   
+{
+   "labs": [
       {
          "number": "Lab 1",
          "name": "Virtual Machine and Github Repo",
@@ -10,7 +10,7 @@
          "name": "Resume",
          "link": "../lab2/kumars14-ShreyaKumar-resume.html",
          "description": "In Lab 2 I created my own resume through HTML and CSS."
-
+      
       },
       {
          "number": "Lab 3",
@@ -36,7 +36,7 @@
          "name": "HTML Page with JavaScript and jQuery",
          "link": "../lab6/lab6.html",
          "description": "In Lab 6 I worked on an HTML page that I edited with Javascript and jQuery. The buttons on the page work and when 'Your Name' is pressed, my name shows up in purple and lowercase. "
-         
+               
       },
       {
          "number": "Lab 7",
@@ -44,4 +44,7 @@
          "link": "../lab7/termprojectmockup.docx",
          "description": "In Lab 7 my term project team and I created our project mockup."
       }
-]
+   
+   ]
+
+}
