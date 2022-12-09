@@ -51,6 +51,21 @@ body {
     font-size: 20px;
 }
 
+.LAB8 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.LAB9 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.LAB10 {
+    text-align: center;
+    font-size: 20px;
+}
+
 #lab1 {
     font-style: normal;
     vertical-align: center;
@@ -89,6 +104,21 @@ body {
 }
 
 #lab7  {
+    font-style:normal;
+    vertical-align: center;
+}
+
+#lab8  {
+    font-style:normal;
+    vertical-align: center;
+}
+
+#lab9  {
+    font-style:normal;
+    vertical-align: center;
+}
+
+#lab10  {
     font-style:normal;
     vertical-align: center;
 }
