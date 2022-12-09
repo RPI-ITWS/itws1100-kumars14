@@ -49,6 +49,17 @@
       "name": "Dynamic Website",
       "link": "../lab8/lab8.html",
       "description": "In Lab 8 I recreated my project page from Lab 3 by importing a JSON file with all the elements of my labs."
+   },
+   {
+      "number": "Lab 9",
+      "name": "phpmyadmin and MySQL database",
+      "description": "In Lab 9 I worked on creating a database for movies and actors on phpmyadmin using MySQL."
+   },
+   {
+      "number": "Lab 10",
+      "name": "Moving Webserver to Production",
+      "link": "kumars14rpi.eastus.cloudapp.azure.com",
+      "description": "In Lab 10 I moved my webserver to production."
    }
    
 ]
